@@ -1,2 +1,2 @@
 # Tutu
-Say Hi to tutu!
+Say hi to tutu!
